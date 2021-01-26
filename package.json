@@ -1,0 +1,21 @@
+{
+  "name": "conexion-serial",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "add": "^2.0.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "serialport": "^9.0.4",
+    "socket.io": "^3.1.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
